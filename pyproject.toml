@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vanta"
+version = "0.0"
+description = "A lightweight Python toolkit for beautiful, structured CLI output."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "zscopuv" }
+]
+dependencies = [
+    "colorama==0.4.6",
+    "packaging>=24.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

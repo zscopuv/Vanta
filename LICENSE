@@ -1,0 +1,216 @@
+ZORA SOURCE-AVAILABLE LICENSE
+Version 1.0
+
+Copyright © 2026 radecekq
+All rights reserved.
+
+1. DEFINITIONS
+
+For the purposes of this License:
+
+"Software" means the Zora software, including its source code, documentation,
+configuration files, assets, and any other materials distributed with the
+Software.
+
+"Original Software" means the Software as distributed by the Copyright Holder.
+
+"Modified Version" means any version of the Software that has been altered,
+adapted, translated, extended, refactored, or otherwise changed from the
+Original Software.
+
+"Copyright Holder" means the individual or entity that owns the copyright in
+the Software.
+
+"User" means any individual or organization obtaining access to the Software.
+
+"Redistribution" means providing, publishing, transmitting, selling,
+licensing, sublicensing, uploading, mirroring, or otherwise making the
+Software or a Modified Version available to any third party.
+
+
+2. GRANT OF RIGHTS
+
+Subject to the terms and conditions of this License, the Copyright Holder
+grants the User a limited, non-exclusive, non-transferable, revocable license
+to:
+
+    a. access and inspect the source code of the Software;
+
+    b. copy the Software for personal use and development;
+
+    c. create private forks of the Software;
+
+    d. modify, adapt, extend, or otherwise alter the Software;
+
+    e. compile and execute the Software and Modified Versions for personal
+       use; and
+
+    f. use the Software and Modified Versions for non-commercial purposes.
+
+These permissions do not constitute a transfer of ownership or copyright.
+
+
+3. REDISTRIBUTION PROHIBITED
+
+The User may not, without prior written permission from the Copyright Holder:
+
+    a. redistribute the Original Software;
+
+    b. redistribute any Modified Version;
+
+    c. publish a fork of the Software;
+
+    d. publish source code derived from the Software;
+
+    e. distribute compiled binaries or executable versions of the Software
+       or a Modified Version;
+
+    f. upload the Software or a Modified Version to another repository,
+       package registry, download service, file-sharing service, or similar
+       distribution platform;
+
+    g. sell, sublicense, rent, lease, or otherwise transfer the Software or
+       a Modified Version to another person or organization; or
+
+    h. make the Software or a Modified Version publicly available through
+       any medium.
+
+
+4. PRIVATE FORKS
+
+The User may create and maintain private forks of the Software for personal
+development, experimentation, testing, education, or other lawful purposes.
+
+A private fork must not be made available to third parties without the
+express written permission of the Copyright Holder.
+
+Nothing in this section grants permission to publish or redistribute a fork.
+
+
+5. MODIFICATIONS
+
+The User is expressly permitted to modify the Software for private use.
+
+Modifications may include, but are not limited to:
+
+    - adding or removing functionality;
+    - changing the user interface;
+    - changing configuration;
+    - fixing bugs;
+    - refactoring code;
+    - creating experimental features; and
+    - adapting the Software for personal environments.
+
+However, the creation of a Modified Version does not grant the User any
+additional right to redistribute that Modified Version.
+
+
+6. COPYRIGHT AND OWNERSHIP
+
+The Software remains the property of the Copyright Holder.
+
+This License does not transfer ownership of the Software, its source code,
+copyright, trademarks, trade names, or other intellectual property rights.
+
+All rights not expressly granted by this License are reserved by the
+Copyright Holder.
+
+
+7. ATTRIBUTION
+
+If the Software or a Modified Version is used privately, the User is
+encouraged to preserve all existing copyright notices, license notices,
+author information, and attribution contained within the Software.
+
+Nothing in this License permits the removal of copyright notices for the
+purpose of claiming ownership of the Original Software.
+
+
+8. COMMERCIAL USE
+
+Commercial use, including incorporation of the Software into a commercial
+product or service, is not permitted unless expressly authorized in writing
+by the Copyright Holder.
+
+The Copyright Holder may grant separate commercial licenses at their
+discretion.
+
+
+9. REQUESTS FOR REDISTRIBUTION
+
+A User wishing to redistribute the Software or a Modified Version may
+contact the Copyright Holder and request explicit permission.
+
+Permission may be granted or denied at the sole discretion of the Copyright
+Holder.
+
+Any permission to redistribute may be subject to additional terms and
+conditions established by the Copyright Holder.
+
+
+10. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR EXEMPLARY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+
+12. TERMINATION
+
+This License automatically terminates if the User violates any of its terms.
+
+Upon termination, the User must cease all use of the Software and destroy
+copies of the Software and Modified Versions in their possession or control,
+except where retention is required by applicable law.
+
+Permissions may be reinstated only through explicit written authorization
+from the Copyright Holder.
+
+
+13. SEVERABILITY
+
+If any provision of this License is determined to be invalid or
+unenforceable, the remaining provisions shall remain in full force and
+effect.
+
+
+14. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement concerning the Software and
+supersedes any prior or contemporaneous understanding concerning the rights
+granted under this License.
+
+
+15. RESERVATION OF RIGHTS
+
+The Copyright Holder reserves all rights not expressly granted by this
+License.
+
+No permission should be inferred merely because a particular restriction is
+not explicitly stated.
+
+
+16. LICENSE VERSION
+
+This license is designated:
+
+    Zora Source-Available License v1.0
+
+Future versions of this License may be published by the Copyright Holder.
+Unless explicitly stated otherwise, a particular version of the Software
+remains governed by the license version distributed with that version.
+
+
+Copyright © 2026 radecekq
+All rights reserved.
