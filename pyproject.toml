@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vanta"
-version = "0.0"
+version = "0.0-pre"
 description = "A lightweight Python toolkit for beautiful, structured CLI output."
 readme = "README.md"
 requires-python = ">=3.9"
