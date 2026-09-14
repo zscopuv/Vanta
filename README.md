@@ -423,7 +423,7 @@ Prompts the user for a yes/no response.
 
 ## Version
 
-Current version: **0.1.0**
+Current version: **0.1.1**
 
 Vanta is currently in early development. The API may change between releases before reaching a stable `1.0.0` release.
 
