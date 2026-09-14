@@ -1,6 +1,4 @@
 # src/vanta/__init__.py
 
-from .app import App
-
-__all__ = ["App"]
-__version__ = "0.0-pre"
+from .metadata import __version__, __desc__
+from .app import Console
